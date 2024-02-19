@@ -1,4 +1,4 @@
-# Mind-AR-Face-Image-Tracking
+# AFRAME Lo-fidelity VR with Google Cardboard
 Here you'll find the Workshop files, resources & links to develop simple Augmented Reality experiences with face and image tracking
 
 
